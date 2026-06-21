@@ -1,6 +1,6 @@
 # Bus Mitra 🚌
 
-![Bus Mitra Logo](assets/images/bus_mitra_logo.png) <!-- Add your logo path -->
+![Bus Mitra Logo](busmitra/assets/images/bus_mitra_logo.png) <!-- Add your logo path -->
 
 **Bus Mitra** is a comprehensive public transport management system designed to enhance the commuting experience for both passengers and staff. The app provides real-time bus tracking, ticket booking, route information, and vehicle condition monitoring.
 
