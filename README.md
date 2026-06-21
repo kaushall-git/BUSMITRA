@@ -4,6 +4,7 @@
 
 **Bus Mitra** is a comprehensive public transport management system designed to enhance the commuting experience for both passengers and staff. The app provides real-time bus tracking, ticket booking, route information, and vehicle condition monitoring.
 
+To know more check here: https://link.springer.com/chapter/10.1007/978-981-95-3156-1_11
 ## Features ✨
 
 ### For Passengers 👥
